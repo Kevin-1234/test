@@ -1,0 +1,9 @@
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csprojAssemblyReference.cache
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfoInputs.cache
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.AssemblyInfo.cs
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.csproj.CoreCompileInputs.cache
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.deps.json
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.dll
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\bin\Debug\netstandard2.1\Sam.Coach.pdb
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.dll
+H:\GitHub\WorkRelated\Open it use Visual Studio_Sam.Coach.Test\Sam.Coach\obj\Debug\netstandard2.1\Sam.Coach.pdb
